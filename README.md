@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **Deep learning**
 
-- 👨‍💻 All of my projects are available at [(https://github.com/SudhaRamanna)]
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/SudhaRamanna)
   
 - 📫 How to reach me **sudharamanna02@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sudharamanna02](https://www.linkedin.com/in/sudharamanna02)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/sudharamanna02)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
