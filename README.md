@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Sudha Ramanna!</h1>
-<h3 align="center">A recent graduate MSc in Data Science and AI from University of Liverpool looking for opportunities to dive deeper into the field of Data Science and Engineering.</h3>
+<h3 align="center">A recent graduate with MSc in Data Science and AI from University of Liverpool looking for opportunities to dive deeper into the field of Data Science and Engineering.</h3>
 
 - 🔭 I’m currently working on **Discovery of Prognostic Biomarkers in Cancer**
 
