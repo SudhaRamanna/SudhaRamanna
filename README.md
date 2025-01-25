@@ -2,15 +2,17 @@
 <h1 align="center">Hi, I'm Sudha Ramanna!</h1>
 <h3 align="center">A recent graduate with MSc in Data Science and AI from University of Liverpool looking for opportunities to dive deeper into the field of Data Science and Engineering.</h3>
 
-- 🔭 I’m currently working on **Discovery of Prognostic Biomarkers in Cancer**
+- 🔭 My recent work on **Discovery of Prognostic Biomarkers in Cancer**
 
-- 🌱 I’m currently learning **Deep learning**
+- 🌱 I am actively enhancing my proficiency in **Python programming**.
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/SudhaRamanna)
   
 - 📫 How to reach me **sudharamanna02@gmail.com**
 
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/sudharamanna02)
+  
+- Feel free to check out my portfolio here [Portfolio](https://dreamy-sudharamanna.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
